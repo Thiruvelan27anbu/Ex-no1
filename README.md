@@ -31,6 +31,12 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
+
+
+
+<img width="1600" height="1178" alt="image" src="https://github.com/user-attachments/assets/51a002a8-25ae-4563-8a67-10d024236778" />
+
+
 #### Program
 
 ```asm
@@ -81,6 +87,14 @@ END
 ## FLOWCHART
 
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+
+
+
+
+
+
+<img width="1556" height="1094" alt="image" src="https://github.com/user-attachments/assets/0097d350-abc3-4875-baa4-e5b793162e03" />
+
 
 
 #### Program
@@ -135,6 +149,13 @@ END
 
 
 
+
+
+
+<img width="1456" height="1458" alt="image" src="https://github.com/user-attachments/assets/25b72844-83cf-41d3-9368-0c17a582dc7d" />
+
+
+
 #### Program
 
 ```asm
@@ -179,6 +200,9 @@ END
    ## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
+
+
+<img width="1600" height="1102" alt="image" src="https://github.com/user-attachments/assets/1c1bac25-63c6-4e75-87e1-6e2f7a4d0d68" />
 
 #### Program
 
